@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">FTabs</string>
+    <string name="tab_text_1">Activity 1</string>
+    <string name="tab_text_2">Activity 2</string>
+    <string name="tab_text_3">Activity 3</string>
+</resources>
